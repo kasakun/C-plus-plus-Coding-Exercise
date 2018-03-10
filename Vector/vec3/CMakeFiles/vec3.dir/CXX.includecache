@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chenzy/Desktop/Code/C++/Submit/P1/vec3/main.cpp
+iostream
+-
+vec3.h
+/home/chenzy/Desktop/Code/C++/Submit/P1/vec3/vec3.h
+
+/home/chenzy/Desktop/Code/C++/Submit/P1/vec3/vec3.h
+iostream
+-
+
